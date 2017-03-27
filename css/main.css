@@ -272,7 +272,7 @@ header .header-container .nav-box .nav-mobile-menu span{
 /*响应式媒体查询处理*/
 @media screen  and (max-width: 1200px) {
   #feature-last{
-    display: none;
+    // display: none;
   }
   .feature{
     width: 740px !important;
@@ -319,6 +319,7 @@ header .header-container .nav-box .nav-mobile-menu span{
   .box{
     width: 90% !important;
   }
+
 }
 
 /*移动端banner兼容*/

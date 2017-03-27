@@ -140,8 +140,16 @@ body{
 }
 
 .feature-text .feature-text-top{
-  width: 180px;
+  width: 200px;
   height: 60px;
+}
+.feature-text .feature-text-top-career{
+  width: 300px;
+  height: 60px;
+}
+.feature-text-top-ourteam{
+    width: 200px;
+    height: 60px;
 }
 
 .feature-text .feature-title{
@@ -149,6 +157,17 @@ body{
     font-weight: bold;
     float: right;
     margin-left: 20px; 
+    line-height: 40px;
+    color: #000;
+    text-decoration: none;
+    padding-top: 10px;
+}
+.feature-text .feature-title-ourteam{
+    font-size: 20px;
+    font-weight: bold;
+    float: right;
+    position: relative;
+    left: -20px;
     line-height: 40px;
     color: #000;
     text-decoration: none;
@@ -174,4 +193,17 @@ body{
   width: 400px;
   height: 500px;
   margin: 0 auto;
+}
+
+.feature-text .feature-title-career{
+    width: 230px;
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    line-height: 40px;
+    color: #000;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-left: 12px;
 }
