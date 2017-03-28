@@ -75,7 +75,11 @@ section{
 	position: relative;
 	top: -50px;
 }
-
+.box-left--bigbox{
+	width: 28%;
+	position: relative;
+	left: -50px;
+}
 .box-left .title{
 	position: relative;
 	top: -20px;
