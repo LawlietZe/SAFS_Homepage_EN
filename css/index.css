@@ -207,3 +207,7 @@ body{
     padding-top: 10px;
     padding-left: 12px;
 }
+
+.carousel-caption h1{
+  font-weight: 900;
+}

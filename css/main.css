@@ -98,6 +98,7 @@ header .header-container .nav-box .nav-mid .navbar-nav li a.active {
   border-bottom: 2px solid #c7161e;
   box-sizing: border-box;
   color: #434343;
+  font-weight: bold;
 }
 header .header-container .nav-box .nav-mid .navbar-nav li a.active:hover::after {
   display: none;
